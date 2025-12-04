@@ -9,6 +9,7 @@ public class TestPlaylist {
         playlist1.addSong("Pera - Aşk Biter");
         playlist1.addSong("Pera - Son Bir Defa");
         playlist1.addSong("Emre Fel - Elveda");
+        playlist1.addSong("Taylor Swift - 22");
         playlist1.printSongs();
         System.out.println("Number of songs: " + playlist1.getSongCount());
         playlist1.removeSong("Emre Fel - Sana El Pençe Durmam");
